@@ -10,7 +10,7 @@ $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) or die("Connect failed: %s\n".
 return $conn;
 }
 
-$sql=
+$sql=inse
 
 function CloseCon($conn)
 {
